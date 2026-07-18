@@ -224,18 +224,6 @@ scene in Dubai and back home to senior roles in fast-moving product teams.
 
 ---
 
-## 🗂️ About This Repo
-
-This repository is the source of my live portfolio — a **single-file site with no frameworks and
-no build step** — featuring light/dark theming, an interactive canvas network background, CSS-only
-3D shapes and full JSON-LD structured data for SEO.
-
-```
-├── index.html   # the entire site — markup, styles & vanilla JS
-├── cv.pdf       # my latest CV
-└── img/         # profile & awards photography
-```
-
 <div align="center">
 
 *Whether you need a CTO's eye on your architecture, a full-stack developer to ship your product,
