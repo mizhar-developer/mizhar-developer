@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/profile.jpg" alt="Mizhar Raja" width="160" />
+<img src="img/profile.webp" alt="Mizhar Raja" width="160" />
 
 # Mizhar Raja
 
@@ -203,7 +203,7 @@ scene in Dubai and back home to senior roles in fast-moving product teams.
 
 <div align="center">
 
-<img src="img/awards.jpg" alt="Mizhar Raja holding two FinX Awards 2026 trophies" width="420" />
+<img src="img/awards.webp" alt="Mizhar Raja holding two FinX Awards 2026 trophies" width="420" />
 
 **FinX Awards 2026 — Sri Lanka · Winner**
 
