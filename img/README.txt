@@ -1,1 +1,1 @@
-profile.jpg = hero headshot (512x512, cropped from the graduation photo). profile-natural.jpg = the same graduation photo, uncropped. awards.jpg = full trophy photo used in the Awards section. Replace either anytime - keep them square-ish.
+profile.jpg = hero headshot (512x512, cropped from the graduation photo). profile-natural.jpg = the same graduation photo, uncropped. awards.jpg = FinX Awards 2026 trophy photo (1024x1024) used in the Awards section. awards-natural.jpg = same trophy photo. Replace any of them anytime - keep them square-ish.
